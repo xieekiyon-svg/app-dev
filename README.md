@@ -16,5 +16,5 @@ Michael Scofield
 - [x] Watch Season 4
 - [x] Watch Season 5
 
-![Stranger Things Poster](https://upload.wikimedia.org/wikipedia/en/f/f7/Stranger_Things_season_1.jpg)
+![Prison Break Poster](https://image.tmdb.org/t/p/w1280/uSZNx5xrXT5h5feqiLwFrN7uE3N.jpg)
 
