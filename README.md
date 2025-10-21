@@ -4,7 +4,7 @@ My first repository
 # My favorites series is Prison Break 🖤
 
 # Fav character 
-Michael Scofield
+==Michael Scofield==
 
 # Fav quote in series
 > "Not if you designed the place, it isn’t.” – Michael Scofield
