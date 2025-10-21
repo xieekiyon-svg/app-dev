@@ -1,7 +1,7 @@
 # app-dev
 My first repository
 
-# My favorites series is ==Prison Break== 🖤
+# My favorites series is Prison Break 🖤
 
 # Fav character 
 Michael Scofield
